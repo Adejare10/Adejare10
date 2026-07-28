@@ -63,7 +63,7 @@ Over the past few months, I've contributed to multiple open-source repositories,
 
 ## 📌 Contribution Summary
 
-- ✅ 19 Merged Pull Requests
+- ✅ 19+ Merged Pull Requests
 - ✅ Multiple Open Source Repositories
 - ✅ Production Features Delivered
 - ✅ Infrastructure Improvements
