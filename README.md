@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Abduljelil Segun Adebayo
 
-### Software Engineer | Open Source Contributor | TypeScript • Node.js • React • Next.js | Backend APIs • Testing • Web3 Infrastructure | Security- minded | Python Developer | FastAPI | React | Data Analyst
+### Software Engineer | Data & AI Engineer | Open Source Contributor | TypeScript • Node.js • React • Next.js | Backend APIs • Testing • Web3 Infrastructure | Security- minded | Python Developer | FastAPI | React | Data Analyst
 
 I build, improve, and maintain open-source software by solving real engineering problems. My contributions focus on backend development, testing, CI/CD, security hardening, configuration management, accessibility, documentation, and developer tooling.
 
